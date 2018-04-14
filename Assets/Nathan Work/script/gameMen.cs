@@ -13,8 +13,8 @@ public class gameMen : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+        Tick();
+    }
 
     public void Tick()
     {
